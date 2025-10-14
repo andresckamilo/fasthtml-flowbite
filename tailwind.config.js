@@ -5,7 +5,6 @@ module.exports = {
   ],
   theme: {
     colors: {
-      // Override default colors
       blue: {
         50: '#E8E8FE',  // Lighter shade of your blue
         100: '#D1D1FD',
